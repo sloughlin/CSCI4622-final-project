@@ -23,8 +23,13 @@ Mask-RCNN:
 https://www.kaggle.com/hmendonca/airbus-mask-rcnn-and-coco-transfer-learning
 
 ###Loss Functions to talk about
+
 *DICE (Intersection over (A + B)
+
 *Focal
+
 *IoU (Intersection over Union)
+
 *Soft Dice (A*\B / A + B)
+
 https://www.kaggle.com/iafoss/fine-tuning-resnet34-on-ship-detection
