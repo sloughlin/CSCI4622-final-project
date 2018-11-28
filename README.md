@@ -15,4 +15,5 @@ https://www.researchgate.net/post/How_to_detect_fog_in_an_image_and_then_enhance
 
 Overall flow of models to test
 
-FRCNN > RFCN > preprocessing
+Mask-RCNN: https://www.kaggle.com/hmendonca/airbus-mask-rcnn-and-coco-transfer-learning
+
