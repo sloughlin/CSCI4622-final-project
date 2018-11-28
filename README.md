@@ -8,6 +8,9 @@ https://github.com/chenyuntc/simple-faster-rcnn-pytorch
 
 https://github.com/longcw/faster_rcnn_pytorch
 
+UNET34:
+https://www.kaggle.com/iafoss/unet34-dice-0-87
+
 yatta
 
 Fog and Haze Removal: 
