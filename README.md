@@ -19,6 +19,9 @@ https://www.researchgate.net/post/How_to_detect_fog_in_an_image_and_then_enhance
 UNET34:
 https://www.kaggle.com/iafoss/unet34-dice-0-87
 
+  >>>ResNet34 Used for pretrained data
+  https://www.kaggle.com/iafoss/fine-tuning-resnet34-on-ship-detection/notebook
+
 Mask-RCNN: 
 https://www.kaggle.com/hmendonca/airbus-mask-rcnn-and-coco-transfer-learning
 
