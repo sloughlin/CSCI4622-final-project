@@ -5,4 +5,4 @@ You can find more information about it here: https://www.kaggle.com/c/airbus-shi
 
 For this project we tested and compared two lead competing algorithms Mask RCNN and UNET34.
 
-You can read more about our project in the paper
+You can read more about our project in the [paper](https://www.google.com).
